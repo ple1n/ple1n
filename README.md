@@ -9,3 +9,12 @@
 I began using [Source First Profit-Shared License (SFPS)](https://github.com/ple1n/nsproxy/blob/tun2socks5/LICENSE.md) on some of my projects.
 
 I hereby declare it one front of what FOSS really standards for, but militant, weaponized, to subvert a system from within by its own rules.
+
+I am hiring, with 0 wage due to personal condition, opensource developers. 
+
+- You are interested in data structures, such as CRDT-like things, and cryptography.
+- Design of novel social media architectures, to actively catalyze social change.
+
+Contact me on matrix.org at @plein:karibooru.love
+
+This is a pseudo-anonymous identity of mine due to security concerns.
