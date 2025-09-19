@@ -12,4 +12,6 @@ I hereby declare it one front of what FOSS really standards for, but militant, w
 
 Contact me on matrix.org at @plein:karibooru.love
 
+age1sp8gzjyjsx9nxnqguc5aep4xfpdrmk7ss8wg26v24ucly78l99ksyrt4dw
+
 This is a pseudo-anonymous identity of mine due to security concerns.
