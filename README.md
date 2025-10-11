@@ -10,7 +10,7 @@ I began using [Source First Profit-Shared License (SFPS)](https://github.com/ple
 
 I hereby declare it one front of what FOSS really standards for, but militant, weaponized, to subvert a system from within by its own rules.
 
-Contact me on matrix.org at @plein:schizo.vip
+Contact me on matrix.org at [@plein:tilde.horse](https://matrix.to/#/@plein:tilde.horse) or [@plein:schizo.vip](https://matrix.to/#/@plein:schizo.vip) Uptime: 100%. Timezone: Variable
 
 age1sp8gzjyjsx9nxnqguc5aep4xfpdrmk7ss8wg26v24ucly78l99ksyrt4dw
 
