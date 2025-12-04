@@ -1,4 +1,6 @@
 
+- [on philosophy](https://github.com/ple1n/awesome/blob/master/philosophy.md)
+- [on biohacking](https://github.com/ple1n/organic)
 - [nsproxy](https://github.com/ple1n/nsproxy) An alternative to proxychains based on Linux kernel feature, network namespaces. Desgined for whistleblowers but comfy enough for daily use.
 - [Matching_based prefix fuzzy search algorithm](https://github.com/ple1n/strprox), notes taken when developing the algorithm is [here](https://github.com/ple1n/strprox/blob/master/topk2.typ)
   - [hoverpanel](https://github.com/ple1n/hoverpanel/), totally offline, dictionary based on the forementioned algorithm, designed for english-to-chinese users.
