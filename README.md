@@ -9,5 +9,3 @@
   - [Stream XML to JSON with optimal performance](https://github.com/ple1n/serde-stream-xml), which is proven to be a must for the forementioned task.
 
 Contact me on matrix.org at [@plein:schizo.vip](https://matrix.to/#/@plein:schizo.vip) 
-
-age1sp8gzjyjsx9nxnqguc5aep4xfpdrmk7ss8wg26v24ucly78l99ksyrt4dw
