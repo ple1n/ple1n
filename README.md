@@ -9,5 +9,7 @@
 - kinda outdated per my current views but whatevers, [philosophy](https://github.com/ple1n/awesome/blob/master/philosophy.md), [biohacking](https://github.com/ple1n/organic)
 
 Contact me on matrix.org at [@plein:schizo.vip](https://matrix.to/#/@plein:schizo.vip) 
+
 XMR `83jmEZumgcsFPveoqEcYqfDunsfLDb1svMAiZ8jFTeSZRRgh5Ho7M1CRTbAJ17gVdKBobA71xF3qoKXVx931WoY7JEubzFk`
+
 Prefer USDT(Arbitrum) `0x38b1793a4DFb17d6F7C2dbF379709C3834C36005`
